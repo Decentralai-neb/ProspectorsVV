@@ -35,7 +35,7 @@ module.exports = {
 
   etherscan: {
     apiKey: {
-      nebulastaging: "W5WJQK111XVR9RQMQUIMZCCCAUWZ9GFIXS"
+      nebulastaging: "ADD_ETHERSCAN_KEY"
     },
     customChains: [
       {
