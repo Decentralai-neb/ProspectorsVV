@@ -1,0 +1,12 @@
+{
+    "contractName": "SklMiner",
+    "network": "nebulastaging",
+    "address": "0xB8389Fba6772d14a05F82AC0648b2Cb9d93f45Ed",
+    "sourceCode": "",
+    "constructorArguments": [
+      "0xD1954CfC783cBd5c10C0094F8d5a21d217636e39", 
+      "0x4568126a247d73ab4a18E46467De893507216393", 
+      "0x47D6C8177aFa27f991B2A6495E31ab6fa88002dD" 
+    ]
+  }
+  
